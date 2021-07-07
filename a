@@ -1,0 +1,60 @@
+[33mcommit 5329f5579ce56c797c52632c4e8b9b1abfc3f74b[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;32mnew[m[33m)[m
+Author: forestr <afivmd78@gmail.com>
+Date:   Wed Jul 7 18:35:07 2021 +0400
+
+    the c file created and commited and going to be merged with the branch master branch
+
+[33mcommit d4344b19d9f40a65d8e112056000fcd68c476bc1[m
+Author: forestr <afivmd78@gmail.com>
+Date:   Wed Jul 7 18:32:39 2021 +0400
+
+    the c file has been created and it has been edited and being commited in new branch
+
+[33mcommit 75102a33d61cdd2f371bf0f8bcdfbed560a0de63[m[33m ([m[1;32mfeature[m[33m)[m
+Author: forestr <afivmd78@gmail.com>
+Date:   Wed Jul 7 18:13:36 2021 +0400
+
+    file a has added some data can we tomorow
+
+[33mcommit 6f25902286f84ff836b378ab91b5e418a96c84e1[m
+Author: forestr <afivmd78@gmail.com>
+Date:   Wed Jul 7 18:09:22 2021 +0400
+
+    b added hey at master branch
+
+[33mcommit 60b8e23b09a2e9171a32bb37c8871993d35be63c[m[33m ([m[1;35mrefs/stash[m[33m)[m
+Merge: ea842f8 537b434
+Author: forestr <afivmd78@gmail.com>
+Date:   Wed Jul 7 18:02:25 2021 +0400
+
+    WIP on feature: ea842f8 changes have been made at the file a at feature branch commitin
+
+[33mcommit 537b434e7a33ee20d0fcb801b45225c143481d12[m
+Author: forestr <afivmd78@gmail.com>
+Date:   Wed Jul 7 18:02:25 2021 +0400
+
+    index on feature: ea842f8 changes have been made at the file a at feature branch commitin
+
+[33mcommit ea842f8fdb33b2c485de471d1a7c03d7d63eb57f[m
+Author: forestr <afivmd78@gmail.com>
+Date:   Wed Jul 7 16:21:41 2021 +0400
+
+    changes have been made at the file a at feature branch commitin
+
+[33mcommit 1e2ff3450c89be06ae3e4096d4f777a4fac97085[m
+Author: forestr <afivmd78@gmail.com>
+Date:   Wed Jul 7 15:56:52 2021 +0400
+
+    file a has been modified  and both added and commited
+
+[33mcommit 95e04eb583cccedf9a5d85080af81bbfca86f392[m
+Author: forestr <afivmd78@gmail.com>
+Date:   Wed Jul 7 15:17:34 2021 +0400
+
+    a file has been created and added
+
+[33mcommit 0740a121a493f2977e361483ca174b411501b6a7[m
+Author: forestr <afivmd78@gmail.com>
+Date:   Wed Jul 7 15:13:09 2021 +0400
+
+    a file a has been created and commited as the version
